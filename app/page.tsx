@@ -96,7 +96,7 @@ export default function Home() {
   const t = copy[locale];
   const isArabic = locale === "ar";
   const featureRows = useMemo(() => t.features, [t.features]);
-  const navTargets = ["#platform", "#platform", "#safety"];
+  const navTargets = ["#platform", "#platform", "#investors"];
 
   return (
     <main dir={t.dir} className={`min-h-screen bg-[#081426] text-[#f8fafc] ${isArabic ? "font-arabic" : "font-sans"}`}>
