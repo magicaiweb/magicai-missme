@@ -40,7 +40,7 @@ const copy = {
   },
   en: {
     dir: "ltr",
-    nav: ["Platform", "Features", "Safety"],
+    nav: ["Platform", "Features", "Investors"],
     switchLabel: "العربية",
     eyebrow: "AI lost & found for Arabic-speaking MENA",
     title: "Return what matters before it disappears.",
